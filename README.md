@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Dharaneesh V
 
-### ☕ Java & Python Developer | 🤖 AI & ML Enthusiast | 🧠 Problem Solver
+### ☕ full stack Developer | 🤖 AI & ML Enthusiast | 🧠 Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%26+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Full+Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,11 +25,11 @@
 🎓 **B.Tech Computer Science Student** at **Kongu Engineering College**
 📅 **2024 – 2028** | **CGPA: 8.52**
 
-I'm a **Java & Python developer** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Full Stack Development**.
+I'm a **full stack developer** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Full Stack Development**.
 
 I enjoy building practical applications that combine software development with intelligent solutions to solve real-world problems.
 
-* ☕ Java & Python Developer
+* ☕ full stack Developer
 * 🤖 AI & Machine Learning Enthusiast
 * 🧠 Exploring Deep Learning
 * 🌐 Interested in Full Stack Development
@@ -146,44 +146,19 @@ I enjoy building practical applications that combine software development with i
 
 ---
 
-## 💳 AML Suspicious Transaction Detection
-
-> Deep-learning-based application for detecting suspicious financial transactions and assigning real-time risk scores.
-
-**Tech Stack:** `FastAPI` `React` `Vite` `LSTM`
-
-### 🔹 Highlights
-
-* 🚨 Suspicious transaction detection
-* 📈 Real-time risk scoring
-* 🔌 RESTful API integration
-* 📊 Interactive transaction monitoring dashboard
-* 🔐 Fraud detection workflow
-* 🧠 LSTM-based deep learning
-
-<p align="left">
-<a href="https://github.com/Dharaneeshv2007?tab=repositories">
-<img src="https://img.shields.io/badge/💻%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
 # 🎯 Areas of Interest
 
 <p align="center">
 
-☕ <b>Java Development</b>
-   •   
-🐍 <b>Python Development</b>
-   •   
+🌐 <b>Full Stack Development</b>
+   •  
 🤖 <b>Artificial Intelligence</b>
    •   
 🧠 <b>Machine Learning</b>
    •   
 🔥 <b>Deep Learning</b>
    •   
-🌐 <b>Full Stack Development</b>
+
 
 </p>
 
@@ -191,7 +166,7 @@ I enjoy building practical applications that combine software development with i
 
 # 🏆 Hackathons
 
-🏅 **HackVotrix Hackathon — 2025**
+🏅 **HackVotrix Hackathon — 2025 | perundurai**
 
 🏅 **CIT Intelina Hackathon — 2026 | Coimbatore**
 
@@ -218,7 +193,7 @@ I enjoy building practical applications that combine software development with i
 
 <p align="center">
   <a href="https://leetcode.com/u/v_dharaneesh/">
-    <img src="https://leetcard.jacoblin.cool/v_dharaneesh?theme=dark&font=Karma&ext=heatmap" width="700"/>
+    <img src="https://leetcard.jacoblin.cool/v_dharaneesh?theme=dark&font=Karma&ext=heatmap" width="500"/>
   </a>
 </p>
 
@@ -258,7 +233,7 @@ I enjoy building practical applications that combine software development with i
 
 </p>
 
-I'm working toward becoming a strong **Java & Python Developer** with expertise in **AI, Machine Learning, Deep Learning, and Full Stack Development**.
+I'm working toward becoming a strong **full stack Developer** with expertise in **AI, Machine Learning, Deep Learning, and Full Stack Development**.
 
 ---
 
