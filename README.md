@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Dharaneesh V
 
-### 💻 Full Stack Developer | 🤖 AI & ML Enthusiast | 🧠 Problem Solver
+### ☕ Java & Python Developer | 🤖 AI & ML Enthusiast | 🧠 Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Java+%7C+Python+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+%26+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Full+Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,6 +13,9 @@
   <a href="https://www.hackerrank.com/profile/dharaneeshv7305">
     <img src="https://img.shields.io/badge/HackerRank-dharaneeshv7305-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="https://github.com/Dharaneeshv2007">
+    <img src="https://img.shields.io/badge/GitHub-Dharaneeshv2007-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -20,23 +23,26 @@
 ## 🚀 About Me
 
 🎓 **B.Tech Computer Science Student** at **Kongu Engineering College**
-📅 **2024 – 2028** | CGPA: **8.52**
+📅 **2024 – 2028** | **CGPA: 8.52**
 
-I'm passionate about building **scalable full-stack applications** and integrating **Machine Learning & Deep Learning** into real-world solutions.
+I'm a **Java & Python developer** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Full Stack Development**.
 
-* 🔭 Currently building full-stack and AI/ML projects
-* 🤖 Interested in Machine Learning & Deep Learning
-* 💻 Passionate about Java, Python and Web Development
-* 🧠 Improving my Data Structures & Algorithms skills
+I enjoy building practical applications that combine software development with intelligent solutions to solve real-world problems.
+
+* ☕ Java & Python Developer
+* 🤖 AI & Machine Learning Enthusiast
+* 🧠 Exploring Deep Learning
+* 🌐 Interested in Full Stack Development
+* 🧩 Improving Data Structures & Algorithms
+* 🚀 Building real-world projects
 * 🌱 Continuously learning new technologies
-* 🚀 Love turning ideas into working applications
-* 🤝 Interested in collaboration and innovative projects
+* 🤝 Open to collaboration and innovative projects
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### ☕ Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -95,24 +101,21 @@ I'm passionate about building **scalable full-stack applications** and integrati
 
 ## ✈️ ADS-B Anomaly Detection
 
-> Machine Learning system for identifying abnormal aircraft behavior from real-world ADS-B data.
+> Machine Learning system designed to identify abnormal aircraft behavior from real-world ADS-B aviation data.
 
-**Tech:** `Python` `Machine Learning` `Isolation Forest`
+**Tech Stack:** `Python` `Machine Learning` `Isolation Forest`
 
 ### 🔹 Highlights
 
 * ✈️ Processed real-world ADS-B flight data
-* 🧹 Performed data preprocessing
-* 🔍 Applied Isolation Forest for anomaly detection
-* 📍 Visualized flight trajectories
-* 📊 Evaluated model performance using standard metrics
+* 🧹 Data preprocessing and cleaning
+* 🔍 Isolation Forest anomaly detection
+* 📍 Flight trajectory visualization
+* 📊 Model performance evaluation
 
-<p>
-<a href="YOUR_ADSB_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-View%20Project-success?style=for-the-badge"/>
-</a>
-<a href="YOUR_ADSB_GITHUB_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+<p align="left">
+<a href="https://github.com/Dharaneeshv2007/ADS-B">
+<img src="https://img.shields.io/badge/💻%20Repository-ADS--B-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -120,9 +123,9 @@ I'm passionate about building **scalable full-stack applications** and integrati
 
 ## 🤖 AI-Powered Customer Churn Prediction
 
-> Intelligent system that identifies customers who are at risk of leaving.
+> AI-powered system that identifies customers who are at risk of leaving and provides actionable business insights.
 
-**Tech:** `Python` `Flask` `TensorFlow` `LSTM` `Scikit-learn` `React`
+**Tech Stack:** `Python` `Flask` `TensorFlow` `LSTM` `Scikit-learn` `React`
 
 ### 🔹 Highlights
 
@@ -133,13 +136,11 @@ I'm passionate about building **scalable full-stack applications** and integrati
 * 💰 Customer Lifetime Value estimation
 * 🔌 RESTful API
 * 📊 Interactive React dashboard
+* 🚀 Deployed full-stack application
 
-<p>
-<a href="YOUR_CHURN_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-View%20Project-success?style=for-the-badge"/>
-</a>
-<a href="YOUR_CHURN_GITHUB_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+<p align="left">
+<a href="https://github.com/Dharaneeshv2007/churn">
+<img src="https://img.shields.io/badge/💻%20Repository-Customer%20Churn-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -147,24 +148,22 @@ I'm passionate about building **scalable full-stack applications** and integrati
 
 ## 💳 AML Suspicious Transaction Detection
 
-> Deep-learning-based application for detecting suspicious financial transactions.
+> Deep-learning-based application for detecting suspicious financial transactions and assigning real-time risk scores.
 
-**Tech:** `FastAPI` `React` `Vite` `LSTM`
+**Tech Stack:** `FastAPI` `React` `Vite` `LSTM`
 
 ### 🔹 Highlights
 
 * 🚨 Suspicious transaction detection
 * 📈 Real-time risk scoring
 * 🔌 RESTful API integration
-* 📊 Interactive monitoring dashboard
+* 📊 Interactive transaction monitoring dashboard
 * 🔐 Fraud detection workflow
+* 🧠 LSTM-based deep learning
 
-<p>
-<a href="YOUR_AML_LIVE_DEMO_URL">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-View%20Project-success?style=for-the-badge"/>
-</a>
-<a href="YOUR_AML_GITHUB_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+<p align="left">
+<a href="https://github.com/Dharaneeshv2007?tab=repositories">
+<img src="https://img.shields.io/badge/💻%20Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -174,7 +173,9 @@ I'm passionate about building **scalable full-stack applications** and integrati
 
 <p align="center">
 
-🌐 <b>Full Stack Development</b>
+☕ <b>Java Development</b>
+   •   
+🐍 <b>Python Development</b>
    •   
 🤖 <b>Artificial Intelligence</b>
    •   
@@ -182,7 +183,7 @@ I'm passionate about building **scalable full-stack applications** and integrati
    •   
 🔥 <b>Deep Learning</b>
    •   
-🧩 <b>Data Structures & Algorithms</b>
+🌐 <b>Full Stack Development</b>
 
 </p>
 
@@ -199,29 +200,53 @@ I'm passionate about building **scalable full-stack applications** and integrati
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneeshv2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneeshv2007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharaneeshv2007&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneeshv2007&layout=compact&count_private=false&hide_border=true&theme=tokyonight" height="180"/>
 </p>
 
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneeshv2007&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharaneeshv2007&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
-# 💻 Coding Profiles
+# 🧩 Problem Solving
+
+### 🟠 LeetCode
 
 <p align="center">
-
-<a href="https://leetcode.com/u/v_dharaneesh/">
-<img src="https://img.shields.io/badge/LeetCode-v__dharaneesh-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/dharaneeshv7305">
-<img src="https://img.shields.io/badge/HackerRank-dharaneeshv7305-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
+  <a href="https://leetcode.com/u/v_dharaneesh/">
+    <img src="https://leetcard.jacoblin.cool/v_dharaneesh?theme=dark&font=Karma&ext=heatmap" width="700"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/v_dharaneesh/">
+    <img src="https://img.shields.io/badge/🧩%20View%20LeetCode%20Profile-v__dharaneesh-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+### 🟢 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/dharaneeshv7305">
+    <img src="https://img.shields.io/badge/🏆%20View%20HackerRank%20Profile-dharaneeshv7305-2EC866?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+# 📚 Education
+
+🎓 **Bachelor of Technology**
+**Kongu Engineering College**
+`2024 – 2028` | **CGPA: 8.52**
+
+🏫 **Blue Bird Matriculation Higher Secondary School**
+`2022 – 2024`
+**10th:** 90% | **12th:** 93%
 
 ---
 
@@ -229,15 +254,15 @@ I'm passionate about building **scalable full-stack applications** and integrati
 
 <p align="center">
 
-### Learn → Build → Solve → Improve → Repeat 🚀
+### ☕ Code → 🤖 Learn → 🧩 Solve → 🚀 Build → 📈 Improve
 
 </p>
 
-I'm focused on becoming a strong **Full Stack Developer with AI/ML expertise**, while continuously improving my problem-solving and software development skills.
+I'm working toward becoming a strong **Java & Python Developer** with expertise in **AI, Machine Learning, Deep Learning, and Full Stack Development**.
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -249,12 +274,20 @@ I'm focused on becoming a strong **Full Stack Developer with AI/ML expertise**, 
 <img src="https://img.shields.io/badge/HackerRank-dharaneeshv7305-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Dharaneeshv2007">
+<img src="https://img.shields.io/badge/GitHub-Dharaneeshv2007-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+---
 
 <p align="center">
+
+⭐ <b>Thanks for visiting my profile!</b>
+
+<br><br>
+
 <b>Build • Learn • Solve • Innovate 🚀</b>
+
 </p>
