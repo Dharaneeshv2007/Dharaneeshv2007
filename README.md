@@ -40,61 +40,93 @@ I enjoy building practical applications that combine software development with i
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### ☕ Programming Languages
+### 💻 Programming
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java" width="70" height="70" alt="Java"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c" width="70" height="70" alt="C"/>
+  </a>
 </p>
-
 ### 🌐 Frontend
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=javascript" width="70" height="70" alt="JavaScript"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react" width="70" height="70" alt="React"/>
+  </a>
 </p>
 
-### ⚙️ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" alt="Node.js"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=express" width="70" height="70" alt="Express.js"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="70" height="70" alt="FastAPI"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=flask" width="70" height="70" alt="Flask"/>
+  </a>
 </p>
 
 ### 🗄️ Database
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB"/>
+  </a>
 </p>
-
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge"/>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="70" height="70" alt="TensorFlow"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=sklearn" width="70" height="70" alt="Scikit-learn"/>
+  </a>
 </p>
 
 ### 🔧 Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github" width="70" height="70" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" alt="VS Code"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=idea" width="70" height="70" alt="IntelliJ IDEA"/>
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman"/>
+  </a>
 </p>
-
 ---
 
 # 🚀 Featured Projects
