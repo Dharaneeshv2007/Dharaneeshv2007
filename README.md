@@ -44,7 +44,7 @@ I enjoy building practical applications that combine software development with i
 
 ### 💻 Programming
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java" width="70" height="70" alt="Java"/>
   </a>
@@ -55,9 +55,10 @@ I enjoy building practical applications that combine software development with i
     <img src="https://skillicons.dev/icons?i=c" width="70" height="70" alt="C"/>
   </a>
 </p>
+
 ### 🌐 Frontend
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML"/>
   </a>
@@ -72,7 +73,9 @@ I enjoy building practical applications that combine software development with i
   </a>
 </p>
 
-<p align="center">
+### ⚙️ Backend
+
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" alt="Node.js"/>
   </a>
@@ -89,7 +92,7 @@ I enjoy building practical applications that combine software development with i
 
 ### 🗄️ Database
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL"/>
   </a>
@@ -97,9 +100,10 @@ I enjoy building practical applications that combine software development with i
     <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB"/>
   </a>
 </p>
+
 ### 🤖 AI / Machine Learning
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=tensorflow" width="70" height="70" alt="TensorFlow"/>
   </a>
@@ -110,7 +114,7 @@ I enjoy building practical applications that combine software development with i
 
 ### 🔧 Tools
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git"/>
   </a>
