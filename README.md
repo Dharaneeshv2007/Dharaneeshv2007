@@ -1,9 +1,15 @@
 # 👋 Hey, I'm Dharaneesh V
 
-### ☕ full stack Developer | 🤖 AI & ML Enthusiast | 🧠 Problem Solver
+### ☕ Full Stack Developer | 🤖 AI & ML Enthusiast | 🧠 Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Building+Real-World+Projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://dharaneeshv2007.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
