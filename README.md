@@ -179,6 +179,8 @@ I enjoy building practical applications that combine software development with i
 * 🔌 RESTful API
 * 📊 Interactive React dashboard
 * 🚀 Deployed full-stack application
+  
+<p align="left"> <a href="https://churn-chi.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Customer%20Churn-00C853?style=for-the-badge"/> </a>
 
 <p align="left">
 <a href="https://github.com/Dharaneeshv2007/churn">
